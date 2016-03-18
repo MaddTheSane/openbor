@@ -11,6 +11,8 @@ Paks/*
 Saves/*
 Paks
 
-
-
+*.dSYM/
+tools/bor2wav/bor2wav
+tools/borpak/borpak
+tools/borplay/borplay
 
